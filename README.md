@@ -51,7 +51,7 @@ admin.site.register(Player,PlayerAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Alt text](<Screenshot 2023-11-15 141638.png>)
 
 
 ## RESULT
